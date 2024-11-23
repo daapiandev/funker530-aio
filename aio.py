@@ -16,10 +16,10 @@ ascii_art = """
 options = """
 1. gen (use proxies fr fr)
 2. chat-spammer 
-3. liker-spammer
+3. like-spammer                          
 4. retriever (use this shit to retrieve the post id)
 """
-
+# HELP WHY DID I CALL IT LIKER-SPAMMER
 def run_script(script_name):
     script_path = os.path.join("utils", script_name)
     subprocess.Popen(["cmd", "/c", f'start cmd /k python {script_path}'])
