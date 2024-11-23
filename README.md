@@ -20,7 +20,7 @@ i do not take any responsibility for how it's used
 🔥realistic names
 
 
-preview:
+# preview📷
 
 https://github.com/user-attachments/assets/56c334da-a52d-4e3c-87a4-a7cbff6c0522
 
