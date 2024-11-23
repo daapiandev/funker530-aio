@@ -17,6 +17,8 @@ i do not take any responsibility for how it's used
 
 🔥opensource
 
+🔥realistic names
+
 
 preview:
 
