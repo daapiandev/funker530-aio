@@ -7,15 +7,15 @@ i do not take any responsibility for how it's used
 
 
 # features
-⭐fast
+🔥fast
 
-⭐supports http proxies format ip:port:username:password get them from webshare
+🔥supports http proxies format ip:port:username:password get them from webshare
 
-⭐fully request based
+🔥fully request based
 
-⭐4 options (gen, liker, commenter video code retriever,)
+🔥4 options (gen, liker, commenter video code retriever,)
 
-⭐opensource
+🔥opensource
 
 
 preview:
@@ -26,7 +26,7 @@ can't be longer due too 10 mb limit
 
 
 # goals
-5 stars = fully finish the AIO + fix most ratelimiting issues for now use proxies🔥
+5 stars = fully finish the AIO + fix most ratelimiting issues for now use proxies⭐
 
 # extra 🚨
 retrieve the post code with the retriever so just paste the end off the video url
